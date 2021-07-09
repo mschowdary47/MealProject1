@@ -28,6 +28,7 @@ document=[{"meal_id":1885,"category":"Beverages","cuisine":"Thai"},{"meal_id":19
 
 # In[3]:
 
+#inser_many
 
 result=collection.insert_many(document)
 
@@ -43,7 +44,7 @@ for unique_id in inserted_IDs:
 
 # In[5]:
 
-
+#printing unique_id's
 print(unique_id)
 
 
