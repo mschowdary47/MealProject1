@@ -22,4 +22,4 @@ Meal_indo_Documents
 
 10.counting the documents
 
-11.drop the file
+11.droping the file
