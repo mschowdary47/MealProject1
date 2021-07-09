@@ -72,5 +72,4 @@ delete from meal
 where meal_id=1445;
 
 #droping table
-
 drop table meal
